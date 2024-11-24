@@ -52,3 +52,6 @@ Division by zero may result in Infinity.
 Repeated operations without clearing might carry forward unintended results.
 Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software, as long as proper attribution is given.  
+See the [LICENSE](LICENSE) file for details.
